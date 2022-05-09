@@ -21,10 +21,10 @@ You can also find me on [![LinkedIn][1.1]][1].
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/chriskal96">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chriskal96&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Christos's GitHub Stats" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/chriskal96">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriskal96&count_private=truex&theme=dark&langs_count=3" />
 </a>
 
