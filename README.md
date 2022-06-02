@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/chriskal96/chriskal96/main/wave.gif?token=GHSAT0AAAAAABR65LL3APCJYGA62F4ZVTZYYTZDGFQ" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/chriskal96/chriskal96/main/wave.gif?token=GHSAT0AAAAAABR65LL3APCJYGA62F4ZVTZYYTZDGFQ" width="30px" height="30px" >
 
 My name is **Christos Kallaras** and i work as a Software Engineer.
 
