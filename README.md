@@ -9,7 +9,7 @@
 👨‍💻 My name is **Christos Kallaras** :
 - 🔭 I work as a Software Engineer.
 - 🏠 I live in Athens, Greece.
-- 🎓 I hold a BSc in <a href="https://www.dept.aueb.gr/cs">Informatics</a> and a MSc in <a href="https://analytics.aueb.gr/">Business Analytics</a>, from Athens University of Economics and Business.
+- 🎓 I hold a BSc in <a href="https://www.dept.aueb.gr/cs">Informatics</a> and a MSc in <a href="https://analytics.aueb.gr/">Business Analytics</a> from Athens University of Economics and Business.
 - 📫 You can also find me on &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/christos-kallaras/)
 
 
